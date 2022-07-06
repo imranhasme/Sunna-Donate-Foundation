@@ -1,0 +1,160 @@
+
+.font-style {
+    font-family: 'Oswald', sans-serif;
+}
+
+.first-section {
+    background-image: url(donation5.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    margin: auto;
+    padding: 10px;
+
+
+
+}
+
+.first-heading {
+    padding-top: 5px;
+    font-size: 75px;
+    text-align: center;
+    color: rgb(38, 218, 32);
+}
+
+.first-paragraph {
+    text-align: center;
+    color: rgb(208, 255, 0);
+    font-size: 30px;
+}
+
+.first-button {
+    height: 45px;
+    width: 145px;
+    border-radius: 5px;
+    padding: 10px 10px 10px 10px;
+    color: white;
+    background-color: rgb(214, 54, 54);
+    border: 0ch;
+
+
+}
+
+.second-section {
+    text-align: center;
+    margin-top: 100px;
+    width: auto;
+    text-decoration-color: bisque;
+}
+
+#bg-color{
+    color: navy;
+    margin-left: 50px;
+    
+    padding: 10px;
+    margin-bottom: 50px;
+    margin-left: 10px;
+    
+
+}
+.dk-1{
+    
+    padding: 20px 20px 20px 20px;
+    background-color: rosybrown;
+}
+.dk-2{
+    padding: 20px 20px 20px 20px;
+    background-color: rosybrown;
+}
+
+.dk-3{
+    padding: 20px 20px 20px 20px;
+    background-color: rosybrown;
+}
+
+.dk-4{
+    padding: 20px 20px 20px 20px;
+    background-color: rosybrown;
+}
+
+.heading-second{
+    color: rgb(255, 0, 242);
+}
+.paragraph-secound{
+    color: rgb(255, 153, 127);
+}
+
+
+.anchor {
+    padding: 50px;
+}
+
+#plan {
+    margin-top: 120px;
+    text-align: center;
+    font-family: 'Shadows Into Light', cursive;
+}
+
+.third-section {
+    display: flex;
+    justify-content: space-evenly;
+    border-radius: 600px;
+    font-family: 'Gulzar', serif;
+    padding-bottom: 10%;
+}
+
+.border {
+    border: solid gold;
+    padding: 10px;
+    text-align: left;
+    margin-bottom: 50px;
+    margin-left: 10px;
+}
+
+#back-color {
+    background-color: rgb(44, 151, 115);
+}
+
+#back-color-second {
+    background-color: rgb(182, 149, 100);
+}
+
+#back-color-third {
+    background-color: rgb(170, 165, 99);
+}
+
+.section-four {
+    display: flex;
+    
+}
+
+.flex-w {
+    width: 40%
+   
+}
+
+.last {
+    text-align: center;
+    padding-bottom: 80px;
+    font-family: 'Rubik Moonrocks', cursive;
+}
+
+#fotter {
+    text-align: center;
+    padding: 10px;
+    background-color: rgb(12, 12, 12);
+    height: 100px;
+
+}
+
+#footer-h-color {
+    color: rgb(236, 0, 0);
+    font-size-adjust: 40px;
+}
+
+#footer-p {
+    
+    color: rgb(128, 0, 0);
+    text-size-adjust: 30x;
+}
